@@ -15,7 +15,7 @@ The Hospital Management System is a comprehensive solution designed to streamlin
 ###  MySQL:
 - MySQL is an open-source relational database management system (RDBMS) that uses Structured Query Language (SQL) for managing and manipulating data. It is one of the most popular database systems used in web applications and is known for its reliability, scalability, and ease of use.
 
-### 4. Jupyter Notebook :
+### Jupyter Notebook :
 - Jupyter Notebook is an open-source web application that allows you to create and share documents containing live code, equations, visualizations, and narrative text. It supports various programming languages, including Python, R, Julia, and more.
 
 
